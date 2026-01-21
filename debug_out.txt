@@ -1,8 +1,0 @@
-2026-01-16T07:47:53.652Z hardhat:core:vars:varsManager Creating a new instance of VarsManager
-2026-01-16T07:47:53.655Z hardhat:core:vars:varsManager Loading ENV variables if any
-2026-01-16T07:47:53.684Z hardhat:core:config Loading Hardhat config from D:\prtnr\Decentralized Investment Fund Governance System\hardhat.config.ts
-Error HH19: Your project is an ESM project (you have "type": "module" set in your package.json) but your Hardhat config file uses the .js extension.
-
-Rename the file to use the .cjs to fix this problem.
-
-For more info go to https://hardhat.org/HH19 or run Hardhat with --show-stack-traces

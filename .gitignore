@@ -1,0 +1,22 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+/contracts/artifacts
+
+# Log files
+*.log
+*.txt
+test_out*
+compile_log*
+debug_out*
+
+# OS junk
+.DS_Store
+Thumbs.db
