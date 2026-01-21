@@ -1,0 +1,3 @@
+
+Compiled 3 Solidity files with solc 0.8.20 (evm target: shanghai)
+No Solidity tests to compile
